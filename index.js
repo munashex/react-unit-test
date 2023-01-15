@@ -5,11 +5,12 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from "react-router-dom"
 
-//this a react web
+//this a react web 
+//feature-b branch im working on right now
 
 ReactDOM.render(
   <BrowserRouter>
-    <React.StrictMode>cls
+    <React.StrictMode>
       <App />
     </React.StrictMode>
   </BrowserRouter>,

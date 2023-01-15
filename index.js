@@ -6,7 +6,8 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from "react-router-dom"
 
 //this a react web 
-//feature-b branch im working on right now
+//feature-b branch im working on right now 
+//conflicts we occur 
 
 ReactDOM.render(
   <BrowserRouter>

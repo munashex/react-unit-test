@@ -9,7 +9,8 @@ import { BrowserRouter } from "react-router-dom"
 //feature-b branch im working on right now 
 //conflicts we occur 
 // someone is working on feature-b 
-//this only in feature-b
+//this only in feature-b 
+//2nd in feature-b
 
 ReactDOM.render(
   <BrowserRouter>
